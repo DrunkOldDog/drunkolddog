@@ -1,12 +1,20 @@
 ![Introduction Image](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
-## Sup, I'm Juani 👋🏻
+## Sup, I'm Juani 👋🏻🧑🏻‍💻
 
 📍 La Paz, Bolivia 🇧🇴  
 💻 Frontend Developer at [Omedym](https://www.omedym.com/) via [Dreamcode.io](https://www.dreamcode.io)  
 📚 Certified Systems Engineer & UX Designer
 
-### My Main Tools
+### My Social Media 🙋🏻
+
+[![LinkedIn](/assets/linkedin.svg)](https://www.linkedin.com/in/juanireyes)
+[![Dribbble](/assets/dribbble.svg)](https://dribbble.com/juanireyes)
+[![Twitter](/assets/twitter.svg)](https://twitter.com/juanireyesg)
+[![Instagram](/assets/instagram.svg)](https://www.instagram.com/juanireyesg)
+[![Spotify](/assets/spotify.svg)](https://open.spotify.com/user/juani888?si=d3330832e2954173)
+
+### My Main Tools 🛠
 
 [![React](/assets/react.svg)](https://reactjs.org)
 [![Figma](/assets/figma.svg)](https://www.figma.com)
@@ -14,7 +22,7 @@
 [![Typescript](/assets/sass.svg)](https://www.typescriptlang.org)
 [![Sass](/assets/typescript.svg)](https://sass-lang.com)
 
-### My GitHub Progress (so far)
+### My GitHub Progress (so far) 🤓
 
 [![Juani's GitHub stats](https://github-readme-stats.vercel.app/api?username=drunkolddog&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
