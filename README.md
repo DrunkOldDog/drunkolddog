@@ -3,7 +3,7 @@
 ## Sup, I'm Juani 👋🏻🧑🏻‍💻
 
 📍 La Paz, Bolivia 🇧🇴  
-💻 Frontend Developer at [Omedym](https://www.omedym.com/) via [Dreamcode.io](https://www.dreamcode.io)  
+💻 Frontend Developer
 📚 Certified Systems Engineer & UX Designer
 
 ### My Social Media 🙋🏻
