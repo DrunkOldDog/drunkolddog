@@ -3,7 +3,7 @@
 ## Sup, I'm Juani 👋🏻🧑🏻‍💻
 
 📍 La Paz, Bolivia 🇧🇴  
-💻 Frontend Developer
+💻 Frontend Developer  
 📚 Certified Systems Engineer & UX Designer
 
 ### My Social Media 🙋🏻
